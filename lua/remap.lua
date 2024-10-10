@@ -1,1 +1,1 @@
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex, { desc = "Show project files" })
+vim.keymap.set("n", "<leader>wf", vim.cmd.Ex, { desc = "[W]orkspace [F]iles" })

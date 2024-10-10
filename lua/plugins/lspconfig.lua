@@ -73,6 +73,9 @@ return {
 
 			local servers = {
 				gopls = {},
+				jdtls = {},
+				angularls = {},
+				prettier = {},
 				lua_ls = {
 					settings = {
 						Lua = {
